@@ -10,3 +10,12 @@
  p{
    color:maroon;
  }
+ p.greentea{
+   color:green;
+ }
+ p.bluetea{
+   color:lightblue;
+ }
+ p.purpletea{
+   color:purple;
+ }
